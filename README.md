@@ -1,1 +1,5 @@
 # MachineLearning
+
+This project used the Pandas and Scikit-learn frameworks for constructing the model. Jupyter was used as an open source notebook with the help of anaconda to run the model.
+
+1. We first launched jupyter on Anaconda by using the command: jupyter notebook
