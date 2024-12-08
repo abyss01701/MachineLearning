@@ -6,7 +6,7 @@ This project used the Pandas and Scikit-learn frameworks for constructing the mo
 
 ![image](https://github.com/user-attachments/assets/25a67cd2-8a7a-4105-a706-58c3da2fa931)
 
-2. Once in the jupyter dashboard, navigate to whereever you want to start your project and crete a new python3 file.
+2. Once in the jupyter dashboard, navigate to whereever you want to start your project and create a new python3 file.
 
 ![image](https://github.com/user-attachments/assets/6372e330-3b4f-4469-91e2-064bce068b66)
 
